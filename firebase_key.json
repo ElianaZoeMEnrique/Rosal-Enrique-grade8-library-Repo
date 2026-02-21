@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rosal-enrique-gr8-library-db",
+  "private_key_id": "0675d3005d3bca15ede9aa66c11525d530ca5d2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc5A7bgpjlkJGT\nPwpoQYRTggT2itpOjH644wkPoA1ecKgmEEnOjPhTnt1H6HD5tTX2iKu/9ATaBvMO\n3vT5KVLGqGPcLe/yAWPkwwEJAarxxZ6Bn3+c/DyYV59WSeDByu5bApjm95bcvDng\n4b/lOk/PdkKz6AubMEHtXZqOL4TDZpH337+IBWBa7v4m1RkQqqnJUHs+Ph6f6dx5\nshv+R5uwqhZeUB51YoZaPhjlhMmzsYjjg9HPUYjo4P+1eeAFLig6jBnkV3LaXDhB\nanEaNuq4mydExrDd9cdPbE9ZSCrkeiMZf+XqThHK2/DAZKJFiZYtImoYsLlUysuF\nC2+lQFmzAgMBAAECggEAAuv85zZrsY2tjYDXv4KgIFuLQia3J6UOVWUUTO/xtjcz\nRcEtZvnQnGxUbP2FAtM8zmKxwR8kh4I3lGb/7TdcRZv+1GGmSVFvY7jRgZNv2W34\nbo4QcPWZoV6wO8LaaSB+Rxc97TH4xKsmDUnoDXYtjdxN78rVUAYzKtOCXWo6Kcqb\nBMphzQEk/kwdMG6zoVY/GqftTICLrVU9PbFkChE0syxogWm6XzoVL7g+NSavVRsc\n8Y7jt/OwqJNlAhFjTJT9D7gORST2lpZh8aCT/ca8yJ4C2GtLYdCdUsc75B9YGbYf\nvPuXM32EgwVZ7oDnkHEHGQWzQjy8hRMefiJOzykPwQKBgQD6dH8V/pX/I/37vc6h\ntrVFsz5gKCGknRB7CCoCH4aysrhKnkp9cqiWTD6p1kbXT+vTNWo+CMW7t05i2baV\nb56RSbHEcMNZLVTq9pv+zue7Pp/H4FHTRiqKPe7m4f2EMHcPgVa0DUAx9/Dp5EaG\nS9JVihAoVEqrCzjPyGFOZh9UIwKBgQDhyAAmu2yO/P8SyUM3OaRpZdPoTDtEXcvS\n5Rstpt4mG3nt/jr6sw41WLcjLhWTjxV+fSC/O5jxZ8M7Xk2/md9tprIcAQc37hqB\nERmRS559sbmDbJ5EfgEscqVfVmCRyROlJm99VxmOB0LQLBA+GKWauWkPc66s01s/\n0B2L+jI1MQKBgQCtX62F1TmSaCDufmMm0OrFOCJqv/0iDdQVxv4FgDtnQo6OoOrh\n0lhfyqHqQbnCXMHb8HL+RGZU3ry1cw6Qfbcfzgrv+DtSZS4OhO5RwnrpxJ0o6ODb\nxwu1rM/PJguv0TjqE9eoRi/1JzSvRGWJm70bl7o9oLQbmWYXeBfcBJeVTwKBgQCX\n9M+FQedSZRwXPLWsWXM6LHpugb/xx18C1YdxNjmVVDC/6LcxO4l4hfjcCIwk/8vr\nkbOUgTvyXW+caV/ScHFbjzGYf2ioT+wuqZ+XlllZJ2A//76VQmjvzUlX3P6pn7dF\nE5U9un1Mhb6F9OIJqPTsKZV3/Ne3IZjsXdlE+GMKQQKBgHm7OC2r53ls3NIWeOOk\neq3Z/SxYc0CSPJ5a/2YYirXoVTssXk3ZlijinGc9MkHl1SCEtGpUQLqVgxuijmdX\naOJ711hAsbDyT65Q86sPegt/ZMAq1VIp1ALOWMI1xTBu1ee+UV1orCOlf4KYAfmm\nQwhgjj3gaV/CksEWsNP4OooL\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@rosal-enrique-gr8-library-db.iam.gserviceaccount.com",
+  "client_id": "108333350705011834924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40rosal-enrique-gr8-library-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
